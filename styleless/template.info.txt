@@ -1,0 +1,7 @@
+base     styleless
+author   Tianyong Tang
+email    tang3w@gmail.com
+date     2016-02-13
+name     Styleless Template
+desc     A styleless template based on starter
+url      https://github.com/tang3w/dokuwiki-styleless-template
